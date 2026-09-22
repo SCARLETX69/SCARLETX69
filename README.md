@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @SCARLETX69
-- 👀 I’m interested in coding and developing games one day
-- 🌱 I’m currently learning Xth grade...
-- 🗿 quandale dingle
-- 📫  reach me on
-my discord - ! ѕ¢αяℓєт_σρ#0676 
+- 👋 Hi, I’m @VISHNUDEV S NAMBIAR
+- 👀 I’m interested in coding and developing games/softwares one day
+- 🌱 I’m currently pursuing my BE CSE degree.
+
 
 <!---
 SCARLETX69/SCARLETX69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
